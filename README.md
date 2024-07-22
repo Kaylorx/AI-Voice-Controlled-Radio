@@ -1,7 +1,7 @@
 # AI-Voice-Controlled-Radio
 An AI Voice controlled web radio 
 
-It was my second year project where I combined 2 web based radios and controlled them with my voice.
+combined 2 web based radios and controlled them with my voice.
 This project isnt fully fledged but has basic feature of voice control to channel the radio , which may be usefull for people who has low vision or any person who cant manually change channels.
 
 #Specifications Used While Running This Project
